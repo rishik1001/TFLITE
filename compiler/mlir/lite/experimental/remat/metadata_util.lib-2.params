@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/compiler/mlir/lite/experimental/remat/metadata_util.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/compiler/mlir/lite/experimental/remat/_objs/metadata_util/metadata_util.obj
+/ignore:4221

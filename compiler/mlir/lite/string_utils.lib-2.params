@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/compiler/mlir/lite/string_utils.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/compiler/mlir/lite/_objs/string_utils/string_utils.obj
+/ignore:4221

@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/compiler/mlir/lite/core/model_builder_base.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/compiler/mlir/lite/core/_objs/model_builder_base/model_builder_base.obj
+/ignore:4221

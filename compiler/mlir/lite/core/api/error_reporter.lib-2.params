@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/compiler/mlir/lite/core/api/error_reporter.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/compiler/mlir/lite/core/api/_objs/error_reporter/error_reporter.obj
+/ignore:4221
