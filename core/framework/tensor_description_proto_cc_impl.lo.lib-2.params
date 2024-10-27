@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/framework/tensor_description_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/framework/_objs/tensor_description_proto_cc_impl/tensor_description.pb.obj
+/ignore:4221

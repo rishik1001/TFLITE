@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/profiler/profiler_options_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/profiler/_objs/profiler_options_proto_cc_impl/profiler_options.pb.obj
+/ignore:4221

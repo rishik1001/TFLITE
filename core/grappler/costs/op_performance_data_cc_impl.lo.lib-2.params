@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/grappler/costs/op_performance_data_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/grappler/costs/_objs/op_performance_data_cc_impl/op_performance_data.pb.obj
+/ignore:4221

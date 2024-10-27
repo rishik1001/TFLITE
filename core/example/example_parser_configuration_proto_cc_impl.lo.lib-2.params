@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/example/example_parser_configuration_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/example/_objs/example_parser_configuration_proto_cc_impl/example_parser_configuration.pb.obj
+/ignore:4221

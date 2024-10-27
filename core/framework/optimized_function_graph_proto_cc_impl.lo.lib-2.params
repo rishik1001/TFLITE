@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/framework/optimized_function_graph_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/framework/_objs/optimized_function_graph_proto_cc_impl/optimized_function_graph.pb.obj
+/ignore:4221

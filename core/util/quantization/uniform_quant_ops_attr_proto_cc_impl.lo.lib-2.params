@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/util/quantization/uniform_quant_ops_attr_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/util/quantization/_objs/uniform_quant_ops_attr_proto_cc_impl/uniform_quant_ops_attr.pb.obj
+/ignore:4221

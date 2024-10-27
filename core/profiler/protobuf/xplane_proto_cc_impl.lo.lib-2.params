@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/profiler/protobuf/xplane_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/tensorflow/core/profiler/protobuf/_objs/xplane_proto_cc_impl/xplane.pb.obj
+/ignore:4221
