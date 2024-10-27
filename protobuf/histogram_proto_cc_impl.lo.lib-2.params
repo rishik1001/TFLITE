@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/histogram_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/_objs/histogram_proto_cc_impl/histogram.pb.obj
+/ignore:4221

@@ -44,6 +44,6 @@
 /d2ReducedOptimizeHugeFunctions
 /clang:-Weverything
 /std:c++17
-/Fobazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/_objs/error_codes_proto_impl_cc_impl/error_codes.pb.obj
+/Fobazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/_objs/dnn_proto_cc_impl/dnn.pb.obj
 /c
-bazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/error_codes.pb.cc
+bazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/dnn.pb.cc

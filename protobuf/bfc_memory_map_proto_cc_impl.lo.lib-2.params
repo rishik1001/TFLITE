@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/bfc_memory_map_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/_objs/bfc_memory_map_proto_cc_impl/bfc_memory_map.pb.obj
+/ignore:4221

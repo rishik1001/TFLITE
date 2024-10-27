@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/test_log_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/external/local_tsl/tsl/protobuf/_objs/test_log_proto_cc_impl/test_log.pb.obj
+/ignore:4221
