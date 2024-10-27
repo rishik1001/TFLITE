@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/protobuf/coordination_config_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/protobuf/_objs/coordination_config_proto_cc_impl/coordination_config.pb.obj
+/ignore:4221

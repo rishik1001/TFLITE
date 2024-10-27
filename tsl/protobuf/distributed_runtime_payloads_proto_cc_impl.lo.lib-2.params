@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/protobuf/distributed_runtime_payloads_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/protobuf/_objs/distributed_runtime_payloads_proto_cc_impl/distributed_runtime_payloads.pb.obj
+/ignore:4221

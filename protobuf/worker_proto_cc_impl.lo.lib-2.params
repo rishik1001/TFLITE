@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/core/protobuf/worker_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/core/protobuf/_objs/worker_proto_cc_impl/worker.pb.obj
+/ignore:4221

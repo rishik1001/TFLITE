@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/core/protobuf/eager_service_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/core/protobuf/_objs/eager_service_proto_cc_impl/eager_service.pb.obj
+/ignore:4221

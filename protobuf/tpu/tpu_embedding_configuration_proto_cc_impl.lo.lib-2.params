@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/core/protobuf/tpu/tpu_embedding_configuration_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/core/protobuf/tpu/_objs/tpu_embedding_configuration_proto_cc_impl/tpu_embedding_configuration.pb.obj
+/ignore:4221

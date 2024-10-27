@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/protobuf/error_codes_proto_impl_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/protobuf/_objs/error_codes_proto_impl_cc_impl/error_codes.pb.obj
+/ignore:4221

@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt/bin/tensorflow/core/protobuf/tpu/optimization_parameters_proto_cc_impl.lo.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt/bin/tensorflow/core/protobuf/tpu/_objs/optimization_parameters_proto_cc_impl/optimization_parameters.pb.obj
+/ignore:4221

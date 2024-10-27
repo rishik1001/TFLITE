@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/platform/default/mutex.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/platform/default/_objs/mutex/mutex.obj
+/ignore:4221

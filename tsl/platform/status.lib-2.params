@@ -1,0 +1,5 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/platform/status.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/platform/_objs/status/status.obj
+/ignore:4221

@@ -1,0 +1,6 @@
+/nologo
+/OUT:bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/platform/windows/platform_port.lib
+/MACHINE:X64
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/platform/windows/_objs/platform_port/port.obj
+bazel-out/x64_windows-opt-exec-BB41B15F/bin/external/local_tsl/tsl/platform/windows/_objs/platform_port/cpu_info.obj
+/ignore:4221
